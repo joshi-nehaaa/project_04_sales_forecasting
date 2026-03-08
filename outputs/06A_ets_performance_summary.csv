@@ -1,0 +1,4 @@
+sku,model,mean_rmse,mean_mape
+Bakery products,ETS_AdditiveTrend,13978.744425153342,5.891765732459124
+Beverages,ETS_AdditiveTrend,167728.87384737693,12.74630364509072
+Ready meals,ETS_AdditiveTrend,3054.6978285176174,6.691648479563403
