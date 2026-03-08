@@ -73,6 +73,7 @@ Python, Excel
 - 03_validation_framework.py
 - 04_forecast_visuals.py
 </details>
+requirements.txt
 
 **Portfolio:** \
 Explore this project and others on my Notion portfolio: https://joshi-nehaaa.notion.site/Portfolio-Neha-Joshi-2ca1601f482680ec84decf9f70295ce3?source=copy_link
