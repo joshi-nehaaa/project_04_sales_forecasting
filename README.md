@@ -30,7 +30,7 @@ Python, Excel
 
 <details>
 <summary>📁 data_raw/</summary>
-- store_sales_train.csv
+- README_data_source
 </details>
 
 <details>
