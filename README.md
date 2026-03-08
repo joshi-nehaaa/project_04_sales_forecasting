@@ -17,7 +17,7 @@ Python, Excel
     Beverages: ARIMA
     Ready meals: ETS
 
-**Repo Map:**\
+**Repo Map:**
 <details>
 <summary>📁 analysis/</summary>
 - project_04_sales_forecasting_analysis.xlsx
