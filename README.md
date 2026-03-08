@@ -7,7 +7,7 @@ The goal is to evaluate forecasting models using historical weekly sales data an
 **Tools:**\
 Python, Excel
 
-**Key Findings**\
+**Key Findings:**
 - Forecast accuracy varies significantly across product categories.
 - ETS models perform well for stable demand series.
 - ARIMA performs better for more volatile demand patterns.
